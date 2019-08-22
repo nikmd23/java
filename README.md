@@ -1,4 +1,4 @@
-# Try Out VS Cloud Environments: Java
+# Try Out VS Cloud Environments: Java ☕
 
 This is a sample project that lets you try out VS Cloud Environments in a few easy steps.
    
